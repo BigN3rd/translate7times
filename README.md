@@ -1,5 +1,5 @@
 # translate7times
-A way to translate any English phrase seven times and back into English for the memes.
+A way to translate any English phrase seven times and back into English for the memes. Depends on libretranslatepy.
 
 Translation route: EN -> ES -> FR -> RU -> DE -> IT -> ZH -> JA -> EN
 
